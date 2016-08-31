@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e8837d0-4d73-4435-9d12-b842dc50d28a" name="Wordpress Event Plugin " url="http://plugin-dev.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b9e28c57-f1f8-4dc3-86ee-0f5bac85e8de" name="Timelogs" url="http://timelogs.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2c708e77-d657-466e-ab2e-dc37239d6d95" name="RomanNumberals" url="http://numerals.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
