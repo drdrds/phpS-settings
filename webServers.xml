@@ -10,6 +10,9 @@
       <webServer id="2c708e77-d657-466e-ab2e-dc37239d6d95" name="RomanNumberals" url="http://numerals.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="28767793-1510-42e5-96cf-71bfdfca15f1" name="Lumen Crud" url="http://lumen-crud.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

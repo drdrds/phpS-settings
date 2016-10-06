@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="includes" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="NumeralTransformer.php" type="PLAIN_TEXT" />
       <mapping pattern="testClass.php" type="PLAIN_TEXT" />
     </extensionMap>
