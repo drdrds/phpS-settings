@@ -13,6 +13,9 @@
       <webServer id="28767793-1510-42e5-96cf-71bfdfca15f1" name="Lumen Crud" url="http://lumen-crud.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c9b336a7-da8f-4257-b343-190d443400b1" name="WHMCS" url="http://192.168.100.252/admin">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
