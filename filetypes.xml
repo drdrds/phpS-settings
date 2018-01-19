@@ -10,6 +10,7 @@
       <mapping pattern="NumeralTransformer.php" type="PLAIN_TEXT" />
       <mapping pattern="testClass.php" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="jq" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
