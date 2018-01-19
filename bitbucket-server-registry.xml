@@ -2,8 +2,10 @@
   <component name="BitbucketServerRegistry">
     <instances>
       <instance uuid="960db312-f9cc-4f09-9c58-f97beedb7804" baseUri="https://stash.aql.com/" />
+      <instance uuid="2b746ec6-b786-4be4-bebc-8c29adcd92f9" baseUri="https://stash.aql.com/" />
     </instances>
     <lookup>
+      <record scheme="https" hostname="stash.aql.com" port="-1" path="/" uuid="2b746ec6-b786-4be4-bebc-8c29adcd92f9" />
       <record scheme="ssh" hostname="stash.aql.com" port="7999" path="/" uuid="960db312-f9cc-4f09-9c58-f97beedb7804" />
     </lookup>
   </component>
