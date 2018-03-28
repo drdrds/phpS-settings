@@ -5,12 +5,13 @@
       <mapping pattern="includes" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="templates" type="PLAIN_TEXT" />
-      <mapping pattern="phpinfo" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="AqlConnection" type="PLAIN_TEXT" />
+      <mapping pattern="phpinfo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="NumeralTransformer.php" type="PLAIN_TEXT" />
       <mapping pattern="testClass.php" type="PLAIN_TEXT" />
+      <mapping pattern="NumeralTransformer.php" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="jq" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
