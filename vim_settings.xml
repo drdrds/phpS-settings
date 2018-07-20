@@ -1,0 +1,43 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/codeWork/sms_relay/smpp_server/SMPPClass.php" timestamp="1532098395786">
+        <mark key="[" line="1851" column="33" />
+        <mark key="]" line="1851" column="33" />
+        <mark key="^" line="1844" column="30" />
+        <mark key="." line="1851" column="33" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>INFO2</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>INFO2</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
