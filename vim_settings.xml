@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1532188716860">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codeWork/sms_relay/smpp_server/SMPPClass.php" timestamp="1532099458931">
         <mark key="[" line="1851" column="33" />
         <mark key="]" line="1851" column="33" />
         <mark key="^" line="1844" column="30" />
         <mark key="." line="1851" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/english4all/config/translatable-bootforms.php" timestamp="1532188745994">
+        <mark key="[" line="12" column="34" />
       </file>
     </filemarks>
     <jumps />
@@ -33,7 +39,10 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
