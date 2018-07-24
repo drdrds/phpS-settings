@@ -6,38 +6,80 @@
       <file name="/Dummy.txt" timestamp="1532188716860">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/english4all/resources/views/vendor/core/public/master.blade.php" timestamp="1532461674922">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/english4all/resources/views/e4a/flags.blade.php" timestamp="1532463029969">
+        <mark key="'" line="6" column="47" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/codeWork/sms_relay/smpp_server/SMPPClass.php" timestamp="1532099458931">
         <mark key="[" line="1851" column="33" />
         <mark key="]" line="1851" column="33" />
         <mark key="^" line="1844" column="30" />
         <mark key="." line="1851" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/english4all/config/translatable-bootforms.php" timestamp="1532460967367">
+      <file name="$USER_HOME$/Code/english4all/config/e4a.php" timestamp="1532463237561">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="94" />
+      </file>
+      <file name="$USER_HOME$/Code/english4all/config/translatable-bootforms.php" timestamp="1532461888812">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="17" column="66" />
         <mark key="^" line="17" column="64" />
         <mark key="." line="17" column="66" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="6" column="47" filename="$USER_HOME$/Code/english4all/resources/views/e4a/flags.blade.php" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbImNvdW50cnkiID0+ICJVSyIsICJmbGFnIiA9PiAiJiMxNDE1IiwgJ2xhbmd1YWdlJyA9PiAiRW5nbGlzaCIsICJjb2RlIiA9PiAiZW4iXSwK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>English</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="-" type="4">
-        <text>English</text>
+        <text />
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaHRtbCcgPT4gaHRtbGVudGl0aWVzKCfwn4es8J+HpycsICd1dGYtOCcpXSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PHNwYW4+IPCfh6zwn4enPC9zcGFuPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGQoJGZsYWdzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -46,7 +88,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
