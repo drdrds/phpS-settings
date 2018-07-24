@@ -12,20 +12,23 @@
         <mark key="^" line="1844" column="30" />
         <mark key="." line="1851" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/english4all/config/translatable-bootforms.php" timestamp="1532459667382">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="15" column="88" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/Code/english4all/config/translatable-bootforms.php" timestamp="1532460967367">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="64" />
+        <mark key="." line="17" column="66" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbImNvdW50cnkiID0+ICJVSyIsICJmbGFnIiA9PiAiJiMxNDE1IiwgJ2xhbmd1YWdlJyA9PiAiRW5nbGlzaCIsICJjb2RlIiA9PiAiZW4iXSwK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>INFO2</text>
+        <text>English</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgCg==</text>
@@ -34,7 +37,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>INFO2</text>
+        <text>English</text>
       </register>
     </registers>
     <search>
