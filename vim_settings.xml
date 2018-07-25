@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1532188716860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/english4all/resources/views/vendor/core/public/master.blade.php" timestamp="1532469710998">
+      <file name="$USER_HOME$/Code/english4all/resources/views/vendor/core/public/master.blade.php" timestamp="1532548824784">
         <mark key="c" line="51" column="41" />
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="43" />
-        <mark key="^" line="51" column="43" />
-        <mark key="." line="51" column="43" />
+        <mark key="[" line="50" column="72" />
+        <mark key="]" line="51" column="73" />
+        <mark key="^" line="51" column="73" />
+        <mark key="." line="51" column="73" />
       </file>
       <file name="$USER_HOME$/Code/english4all/resources/views/e4a/flags.blade.php" timestamp="1532469608317">
         <mark key="[" line="3" column="88" />
@@ -54,10 +54,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>; float : right&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>; float : right&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgaWQ9ImZsYWdzLXRvcCI+IEBpbmNsdWRlKCdlNGEuZmxhZ3MnKTwvZGl2Pgo=</text>
