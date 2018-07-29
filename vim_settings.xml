@@ -66,12 +66,15 @@
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/english4all/vendor/typicms/core/src/Providers/ModuleProvider.php" timestamp="1532882095234" />
       <file name="$USER_HOME$/Code/english4all/app/Models/Flag.php" timestamp="1532466775648">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/english4all/config/app.php" timestamp="1532881882040" />
+      <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Repositories/EloquentPage.php" timestamp="1532882894743" />
       <file name="$USER_HOME$/Code/english4all/database/migrations/2018_07_27_195906_add__you_tube_id_to_pages.php" timestamp="1532721835502">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="27" column="22" />
