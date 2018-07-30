@@ -25,6 +25,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Models/Page.php" timestamp="1532884391019">
+        <mark key="[" line="75" column="5" />
+        <mark key="]" line="75" column="23" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+      </file>
       <file name="$USER_HOME$/codeWork/sms_relay/smpp_server/SMPPClass.php" timestamp="1532099458931">
         <mark key="[" line="1851" column="33" />
         <mark key="]" line="1851" column="33" />
@@ -66,6 +72,7 @@
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Repositories/EloquentPageSection.php" timestamp="1532883957718" />
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/core/src/Providers/ModuleProvider.php" timestamp="1532882095234" />
       <file name="$USER_HOME$/Code/english4all/app/Models/Flag.php" timestamp="1532466775648">
         <mark key="[" line="25" column="23" />
@@ -75,6 +82,7 @@
       </file>
       <file name="$USER_HOME$/Code/english4all/config/app.php" timestamp="1532881882040" />
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Repositories/EloquentPage.php" timestamp="1532882894743" />
+      <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Presenters/ModulePresenter.php" timestamp="1532884178097" />
       <file name="$USER_HOME$/Code/english4all/database/migrations/2018_07_27_195906_add__you_tube_id_to_pages.php" timestamp="1532721835502">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="27" column="22" />
