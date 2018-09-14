@@ -24,7 +24,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/codeWork/whmcs/Dockerfile" timestamp="1536917643361" />
+      <file name="$USER_HOME$/codeWork/whmcs/docker-compose.yml" timestamp="1536924221883">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Models/Page.php" timestamp="1532884391019">
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="23" />
@@ -138,7 +143,7 @@
         <text encoding="base64">ICAgIHRvcCA6IDBweDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -154,6 +159,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
