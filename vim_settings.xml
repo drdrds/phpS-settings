@@ -30,7 +30,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/codeWork/whmcs/Dockerfile" timestamp="1536926003528" />
+      <file name="$USER_HOME$/codeWork/whmcs/Dockerfile" timestamp="1536930047893">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="26" />
+        <mark key="." line="61" column="26" />
+        <mark key="^" line="61" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Models/Page.php" timestamp="1532884391019">
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="23" />
@@ -104,11 +109,11 @@
       <jump line="45" column="17" filename="$USER_HOME$/Code/english4all/resources/assets/scss/public.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBmb3JlYWNoICgkcGFnZS0+cHVibGlzaGVkU2VjdGlvbnMgYXMgJHNlY3Rpb24pCiAgICAgICAgPGRpdiBpZD0ie3sgJHNlY3Rpb24tPnBvc2l0aW9uLictJy4kc2VjdGlvbi0+c2x1ZyB9fSI+CiAgICAgICAgeyEhICRzZWN0aW9uLT5wcmVzZW50KCktPmJvZHkgISF9CiAgICAgICAgPC9kaXY+CiAgICBAZW5kZm9yZWFjaAo=</text>
+      <register name="&quot;" type="4">
+        <text>solution360/apache2-php56-ioncuben</text>
       </register>
       <register name="-" type="4">
-        <text>720</text>
+        <text>solution360/apache2-php56-ioncuben</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZ2JcPg==</text>
@@ -144,7 +149,7 @@
         <text encoding="base64">ICAgIHRvcCA6IDBweDsK</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -159,8 +164,8 @@
         <entry encoding="base64">XDxyZ2JcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
