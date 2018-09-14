@@ -24,10 +24,10 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/codeWork/whmcs/docker-compose.yml" timestamp="1536938945247">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="$USER_HOME$/codeWork/whmcs/docker-compose.yml" timestamp="1536941170263">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/Dockerfile" timestamp="1536930047893">
