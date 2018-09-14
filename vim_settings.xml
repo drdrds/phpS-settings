@@ -24,6 +24,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/codeWork/whmcs/Dockerfile" timestamp="1536917643361" />
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Models/Page.php" timestamp="1532884391019">
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="23" />
@@ -75,7 +76,6 @@
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Traits/SortableSectionTrait.php" timestamp="1536264847674" />
       <file name="$USER_HOME$/Code/english4all/app/Models/Flag.php" timestamp="1532466775648">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="17" column="25" />
