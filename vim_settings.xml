@@ -6,10 +6,11 @@
       <file name="/Dummy.txt" timestamp="1536263595590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeWork/whmcs/Vagrantfile" timestamp="1541091269297">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/codeWork/whmcs/Vagrantfile" timestamp="1541092410592">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Code/english4all/resources/views/vendor/core/public/master.blade.php" timestamp="1532788696308">
         <mark key="[" line="52" column="0" />
