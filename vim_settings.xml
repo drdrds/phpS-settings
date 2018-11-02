@@ -33,6 +33,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Services/ParseServiceCheckerApiData.php" timestamp="1541178265830">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/codeWork/whmcs/docker-compose.yml" timestamp="1536941170263">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="13" />
@@ -89,6 +94,9 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="1" column="77" />
       </file>
+      <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/PostcodeController.php" timestamp="1541177871398">
+        <mark key="[" line="126" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/english4all/resources/assets/scss/public.scss" timestamp="1532780024931">
         <mark key="'" line="45" column="17" />
         <mark key="[" line="45" column="17" />
@@ -121,55 +129,56 @@
       <jump line="70" column="61" filename="$USER_HOME$/Code/english4all/resources/assets/scss/public.scss" />
       <jump line="45" column="17" filename="$USER_HOME$/Code/english4all/resources/assets/scss/public.scss" />
       <jump line="13" column="2" filename="$USER_HOME$/codeWork/whmcs/Vagrantfile" />
+      <jump line="39" column="15" filename="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Services/ParseServiceCheckerApiData.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIFByb3Zpc2lvbiB0aGUgYm94Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhcgogICAgICovCiAgICBwcm90ZWN0ZWQgJHNpdGVNYXA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>solution360/apache2-php56-ioncuben</text>
       </register>
       <register name="/" type="4">
-        <text>ukown</text>
+        <text>siteMap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBmb3JlYWNoICgkcGFnZS0+cHVibGlzaGVkU2VjdGlvbnMgYXMgJHNlY3Rpb24pCiAgICAgICAgPGRpdiBpZD0ie3sgJHNlY3Rpb24tPnBvc2l0aW9uLictJy4kc2VjdGlvbi0+c2x1ZyB9fSI+CiAgICAgICAgeyEhICRzZWN0aW9uLT5wcmVzZW50KCktPmJvZHkgISF9CiAgICAgICAgPC9kaXY+CiAgICBAZW5kZm9yZWFjaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIFByb3Zpc2lvbiB0aGUgYm94Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhcgogICAgICovCiAgICBwcm90ZWN0ZWQgJHNpdGVNYXA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjY29uZmlnLnZtLnByb3Zpc2lvbiA6YW5zaWJsZSBkbyB8YW5zaWJsZXwK</text>
+        <text encoding="base64">ICAjIFByb3Zpc2lvbiB0aGUgYm94Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAjY29uZmlnLnZtLnByb3Zpc2lvbiA6YW5zaWJsZSBkbyB8YW5zaWJsZXwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuc2libGUucGxheWJvb2sgPSAiYW5zaWJsZS92YWdyYW50LnltbCIK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuc2libGUuZXh0cmFfdmFycyA9IHsgYW5zaWJsZV9zc2hfdXNlcjogJ3ZhZ3JhbnQnIH0K</text>
+        <text encoding="base64">ICAgIGFuc2libGUucGxheWJvb2sgPSAiYW5zaWJsZS92YWdyYW50LnltbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBpZigkcGFnZS0+eW91VHViZUlkKQogICAgICAgIEBpbmNsdWRlKCdlNGEueW91dHViZS1lbWJlZCcsIFsneW91VHViZUlkJyA9PiAkcGFnZS0+eW91VHViZUlkICwgJ2xhbmd1YWdlQ29kZScgPT4gJ2VuJ10pOwogICAgICAgIEBlbmRpZgo=</text>
+        <text encoding="base64">ICAgIGFuc2libGUuZXh0cmFfdmFycyA9IHsgYW5zaWJsZV9zc2hfdXNlcjogJ3ZhZ3JhbnQnIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aDI+e3skcGFnZS0+eW91VHViZUlkfX08L2gyPgo=</text>
+        <text encoding="base64">ICAgIEBpZigkcGFnZS0+eW91VHViZUlkKQogICAgICAgIEBpbmNsdWRlKCdlNGEueW91dHViZS1lbWJlZCcsIFsneW91VHViZUlkJyA9PiAkcGFnZS0+eW91VHViZUlkICwgJ2xhbmd1YWdlQ29kZScgPT4gJ2VuJ10pOwogICAgICAgIEBlbmRpZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7LS08ZGl2IGlkPSJmbGFncy1yaWdodCIgc3R5bGU9InBvc2l0aW9uOiBmaXhlZDsgcmlnaHQ6IDBweDsgd2lkdGggOiAzZW07IGJhY2tncm91bmQtY29sb3I6I2ZhZjJjY2YiPiBAaW5jbHVkZSgnZTRhLmZsYWdzJyk8L2Rpdj4tLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDI+e3skcGFnZS0+eW91VHViZUlkfX08L2gyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7LS08ZGl2IGlkPSJmbGFncy1sZWZ0IiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiAwcHg7IHdpZHRoIDogM2VtOyBiYWNrZ3JvdW5kLWNvbG9yOiNmYWYyY2NmIj4gQGluY2x1ZGUoJ2U0YS5mbGFncycpPC9kaXY+LS19fQo=</text>
+        <text encoding="base64">ICAgIHt7LS08ZGl2IGlkPSJmbGFncy1yaWdodCIgc3R5bGU9InBvc2l0aW9uOiBmaXhlZDsgcmlnaHQ6IDBweDsgd2lkdGggOiAzZW07IGJhY2tncm91bmQtY29sb3I6I2ZhZjJjY2YiPiBAaW5jbHVkZSgnZTRhLmZsYWdzJyk8L2Rpdj4tLX19Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
+        <text>128</text>
       </register>
     </registers>
     <search>
-      <last-search>ukown</last-search>
+      <last-search>siteMap</last-search>
       <last-offset />
-      <last-pattern>ukown</last-pattern>
+      <last-pattern>siteMap</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -178,11 +187,13 @@
         <entry encoding="base64">XDxyZ2JcPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>ukown</entry>
+        <entry>siteMap</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
         <entry>w</entry>
         <entry>104</entry>
+        <entry>128</entry>
       </history-cmd>
       <history-expr />
       <history-input />
