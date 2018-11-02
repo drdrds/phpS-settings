@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Models/Postcode.php" timestamp="1541175878542">
+        <mark key="[" line="139" column="63" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536263595590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +130,7 @@
         <text>solution360/apache2-php56-ioncuben</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text>ukown</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBmb3JlYWNoICgkcGFnZS0+cHVibGlzaGVkU2VjdGlvbnMgYXMgJHNlY3Rpb24pCiAgICAgICAgPGRpdiBpZD0ie3sgJHNlY3Rpb24tPnBvc2l0aW9uLictJy4kc2VjdGlvbi0+c2x1ZyB9fSI+CiAgICAgICAgeyEhICRzZWN0aW9uLT5wcmVzZW50KCktPmJvZHkgISF9CiAgICAgICAgPC9kaXY+CiAgICBAZW5kZm9yZWFjaAo=</text>
@@ -160,24 +163,26 @@
         <text encoding="base64">ICAgIHt7LS08ZGl2IGlkPSJmbGFncy1sZWZ0IiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiAwcHg7IHdpZHRoIDogM2VtOyBiYWNrZ3JvdW5kLWNvbG9yOiNmYWYyY2NmIj4gQGluY2x1ZGUoJ2U0YS5mbGFncycpPC9kaXY+LS19fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search>ukown</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>ukown</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxyZ2JcPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>ukown</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
         <entry>w</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
