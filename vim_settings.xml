@@ -27,6 +27,12 @@
         <mark key="^" line="25" column="65" />
         <mark key="." line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/codeWork/whmcs/vendor/aql/.env" timestamp="1542900203130">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/english4all/vendor/typicms/pages/src/Models/Page.php" timestamp="1532884391019">
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="23" />
@@ -140,11 +146,11 @@
       <jump line="39" column="15" filename="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Services/ParseServiceCheckerApiData.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgJHNpdGVzID0gJHBvc3Rjb2QzZGRlLT5uZXR3b3JrU2l0ZXMoKS0+d2l0aFBpdm90KCdpc19wcmltYXJ5JyktPmdldCgpOwogICAgICAgICBlZWUoJ2hlcmUnKTsKICAgICAgICAgZWVlKCRzaXRlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>pink</text>
