@@ -118,6 +118,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" timestamp="1544441746412">
+        <mark key="[" line="116" column="48" />
+        <mark key="]" line="116" column="48" />
+        <mark key="." line="116" column="48" />
+        <mark key="^" line="263" column="56" />
+      </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/SiteController.php" timestamp="1542901860244">
         <mark key="[" line="62" column="99" />
         <mark key="]" line="62" column="115" />
@@ -154,53 +160,53 @@
       <jump line="62" column="31" filename="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/SiteController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>UNDELIVERABLE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZS0+</text>
+        <text>UNDELIVERABLE</text>
       </register>
       <register name="/" type="4">
-        <text>pink</text>
+        <text>deL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAaWYoJGV2ZW50LT5pc1JlZFdhcm5pbmcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZigkZXZlbnQtPmlzVGhpc1dlZWspCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHIgY2xhc3M9ImFsZXJ0LWRhbmdlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHIgY2xhc3M9ImFsZXJ0LXdhcm5pbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRGYWlsVmFsdWVzKGFycmF5ICR2YWx1ZXMpCiAgICB7CiAgICAgICAgJHZhbHVlc1sncHJvdG9jb2xTdGF0ZUlkJ10gPSBzZWxmOjpQUk9UT0NPTF9TVEFURV9ERUxJVkVSWV9GQUlMX0lEOwogICAgICAgICR2YWx1ZXNbJ3Byb3RvY29sU3RhdGUnXSA9IHNlbGY6OlBST1RPQ09MX1NUQVRFX0RFTElWRVJZX0ZBSUxfVkFMVUU7CiAgICAgICAgJHZhbHVlc1snc3RhdGUnXSA9IHNlbGY6OlNUQVRFX0RFTElWRVJZX0ZBSUxfSUQ7CiAgICAgICAgcmV0dXJuICR2YWx1ZXM7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5UmF3KCdlbmRkYXRlIElTIE5PVCBOVUxMLCBlbmRkYXRlIERFU0MsIHN0YXJ0ZGF0ZSBERVNDJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGVzY3JpcHRpb248L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5UmF3KCdlbmRkYXRlIElTIE5PVCBOVUxMLCBlbmRkYXRlIERFU0MsIHN0YXJ0ZGF0ZSBERVNDJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7JGV2ZW50LT5kYXRlfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGVzY3JpcHRpb248L3RoPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGF0ZTwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7JGV2ZW50LT5kYXRlfX08L3RkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgJHNpdGVzID0gJHBvc3Rjb2QzZGRlLT5uZXR3b3JrU2l0ZXMoKS0+d2l0aFBpdm90KCdpc19wcmltYXJ5JyktPmdldCgpOwogICAgICAgICBlZWUoJ2hlcmUnKTsKICAgICAgICAgZWVlKCRzaXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGF0ZTwvdGg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgJHNpdGVzID0gJHBvc3Rjb2QzZGRlLT5uZXR3b3JrU2l0ZXMoKS0+d2l0aFBpdm90KCdpc19wcmltYXJ5JyktPmdldCgpOwogICAgICAgICBlZWUoJ2hlcmUnKTsKICAgICAgICAgZWVlKCRzaXRlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>pink</last-search>
+      <last-search>deL</last-search>
       <last-offset />
-      <last-pattern>pink</last-pattern>
+      <last-pattern>deL</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +217,7 @@
         <entry>ukown</entry>
         <entry>siteMap</entry>
         <entry>pink</entry>
+        <entry>deL</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
