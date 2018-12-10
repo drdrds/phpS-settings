@@ -118,11 +118,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" timestamp="1544441746412">
-        <mark key="[" line="116" column="48" />
-        <mark key="]" line="116" column="48" />
-        <mark key="." line="116" column="48" />
-        <mark key="^" line="263" column="56" />
+      <file name="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" timestamp="1544442702481">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="39" />
+        <mark key="." line="117" column="39" />
+        <mark key="^" line="117" column="38" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/SiteController.php" timestamp="1542901860244">
         <mark key="[" line="62" column="99" />
@@ -161,10 +161,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UNDELIVERABLE</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>UNDELIVERABLE</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>deL</text>
