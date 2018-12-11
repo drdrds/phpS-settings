@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" timestamp="1544520140990">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="39" />
+      <file name="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" timestamp="1544531593309">
+        <mark key="'" line="44" column="56" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="90" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/resources/views/admin/postcode/view.blade.php" timestamp="1542898775897">
         <mark key="[" line="37" column="0" />
@@ -81,10 +82,10 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/scripts/text-to-speech.php" timestamp="1544520283227">
-        <mark key="[" line="432" column="33" />
-        <mark key="]" line="432" column="35" />
-        <mark key="." line="430" column="0" />
+      <file name="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/scripts/text-to-speech.php" timestamp="1544531478899">
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Models/Postcode.php" timestamp="1541175878542">
         <mark key="[" line="139" column="63" />
@@ -167,55 +168,58 @@
       <jump line="13" column="2" filename="$USER_HOME$/codeWork/whmcs/Vagrantfile" />
       <jump line="39" column="15" filename="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Services/ParseServiceCheckerApiData.php" />
       <jump line="62" column="31" filename="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/SiteController.php" />
+      <jump line="66" column="38" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
+      <jump line="11" column="31" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
+      <jump line="44" column="56" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFuYWx5dGljc1ZhbHVlcyA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJGFuYWx5dGljc1ZhbHVlcyA9ICR0aGlzLT5vYmpBbmFseXRpY3MtPnNldEZhaWxWYWx1ZXMoJGFuYWx5dGljc1ZhbHVlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="/" type="4">
-        <text>deL</text>
+        <text>setF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFuYWx5dGljc1ZhbHVlcyA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJGFuYWx5dGljc1ZhbHVlcyA9ICR0aGlzLT5vYmpBbmFseXRpY3MtPnNldEZhaWxWYWx1ZXMoJGFuYWx5dGljc1ZhbHVlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5UmF3KCdlbmRkYXRlIElTIE5PVCBOVUxMLCBlbmRkYXRlIERFU0MsIHN0YXJ0ZGF0ZSBERVNDJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGVzY3JpcHRpb248L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5UmF3KCdlbmRkYXRlIElTIE5PVCBOVUxMLCBlbmRkYXRlIERFU0MsIHN0YXJ0ZGF0ZSBERVNDJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7JGV2ZW50LT5kYXRlfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGVzY3JpcHRpb248L3RoPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGF0ZTwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7JGV2ZW50LT5kYXRlfX08L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgJHNpdGVzID0gJHBvc3Rjb2QzZGRlLT5uZXR3b3JrU2l0ZXMoKS0+d2l0aFBpdm90KCdpc19wcmltYXJ5JyktPmdldCgpOwogICAgICAgICBlZWUoJ2hlcmUnKTsKICAgICAgICAgZWVlKCRzaXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+RGF0ZTwvdGg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>deL</last-search>
+      <last-search>setF</last-search>
       <last-offset />
-      <last-pattern>deL</last-pattern>
+      <last-pattern>setF</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +231,8 @@
         <entry>siteMap</entry>
         <entry>pink</entry>
         <entry>deL</entry>
+        <entry>setFa</entry>
+        <entry>setF</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
