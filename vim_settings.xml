@@ -128,11 +128,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" timestamp="1544442702481">
-        <mark key="[" line="117" column="39" />
-        <mark key="]" line="117" column="39" />
-        <mark key="." line="117" column="39" />
-        <mark key="^" line="117" column="38" />
+      <file name="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" timestamp="1544544882218">
+        <mark key="'" line="117" column="25" />
+        <mark key="[" line="261" column="66" />
+        <mark key="]" line="261" column="66" />
+        <mark key="." line="261" column="66" />
+        <mark key="^" line="117" column="54" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/app/Http/Controllers/Admin/SiteController.php" timestamp="1542901860244">
         <mark key="[" line="62" column="99" />
@@ -176,16 +177,18 @@
       <jump line="153" column="18" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
       <jump line="168" column="18" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
       <jump line="199" column="16" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
+      <jump line="116" column="34" filename="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" />
+      <jump line="117" column="25" filename="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYW5hbHl0aWNzVmFsdWVzID0K</text>
+      <register name="&quot;" type="4">
+        <text>_FAIL</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JCA=</text>
+        <text>_FAIL</text>
       </register>
       <register name="/" type="4">
-        <text>$analyticsEvents</text>
+        <text>REJECTED_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPm9iakFuYWx5dGljcy0+c3RvcmVNb0FuYWx5dGljc0V2ZW50cygkdWRoTWVzc2FnZVsnbW9BbmFseXRpY3NJZCddLCAkYW5hbHl0aWNzRXZlbnRzKTsK</text>
@@ -222,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$analyticsEvents</last-search>
+      <last-search>REJECTED_</last-search>
       <last-offset />
-      <last-pattern>$analyticsEvents</last-pattern>
+      <last-pattern>REJECTED_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -240,6 +243,7 @@
         <entry>setF</entry>
         <entry>analytisEvents</entry>
         <entry>$analyticsEvents</entry>
+        <entry>REJECTED_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
