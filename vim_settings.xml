@@ -20,11 +20,20 @@
         <mark key="." line="70" column="3" />
         <mark key="^" line="70" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/php-test/src/FootballParser.php" timestamp="1561399961844">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/english4all/resources/views/e4a/flags.blade.php" timestamp="1532780621704">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/php-test/README.md" timestamp="1561398930825" />
+      <file name="/a.dummy" timestamp="1561399270852">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeWork/whmcs/modules/addons/aqlServiceChecker/resources/views/admin/event/index.blade.php" timestamp="1542902119774">
         <mark key="[" line="93" column="0" />
@@ -76,8 +85,11 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/Code/php-test/src/FootballEventParser.php" timestamp="1561397868032">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/php-test/src/FootballEventParser.php" timestamp="1561399244734">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Code/english4all/app/Models/Flag.php" timestamp="1532466775648">
         <mark key="[" line="25" column="23" />
@@ -150,9 +162,10 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="43" column="72" />
       </file>
-      <file name="$USER_HOME$/codeWork/aql_api/docker-compose.yml" timestamp="1536934939903">
-        <mark key="[" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Code/php-test/src/Interfaces/SportsParserInterface.php" timestamp="1561400180777">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/english4all/database/migrations/2018_07_27_195906_add__you_tube_id_to_pages.php" timestamp="1532721835502">
         <mark key="[" line="15" column="31" />
@@ -181,16 +194,19 @@
       <jump line="199" column="16" filename="$USER_HOME$/codeWork/text_to_speech/tts_new_platform/core_objects/TtsWorker.class.php" />
       <jump line="116" column="34" filename="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" />
       <jump line="117" column="25" filename="$USER_HOME$/codeWork/core_objects/MoAnalytics.class.php" />
+      <jump line="8" column="8" filename="$USER_HOME$/Code/php-test/src/FootballEventParser.php" />
+      <jump line="9" column="8" filename="$USER_HOME$/Code/php-test/src/FootballEventParser.php" />
+      <jump line="10" column="8" filename="$USER_HOME$/Code/php-test/src/FootballEventParser.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>_FAIL</text>
+        <text>elf</text>
       </register>
       <register name="/" type="4">
-        <text>REJECTED_</text>
+        <text>- `</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPm9iakFuYWx5dGljcy0+c3RvcmVNb0FuYWx5dGljc0V2ZW50cygkdWRoTWVzc2FnZVsnbW9BbmFseXRpY3NJZCddLCAkYW5hbHl0aWNzRXZlbnRzKTsK</text>
@@ -199,37 +215,39 @@
         <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYW5hbHl0aWNzVmFsdWVzID0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZGFuYWx5dGljc0V2ZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgJGFuYWx5dGljc0V2ZW50c1tdID0gYXJyYXkoCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnRGVzdGluYXRpb24gbnVtYmVyIG9wdGVkIG91dCBzbyBjYW5jZWxsaW5nIG1lc3NhZ2UnLAogICAgICAgICAgICAndGltZVN0YW1wSW5NaWxsaXNlY29uZHMnID0+IE1vQW5hbHl0aWNzOjpnZXRNaWxsaXNlY29uZFRpbWVzdGFtcCgpLAogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY291bGQgbG9nIHNvbWV0aGluZyBmaXJzdCBpZiBzdXBwbGllciBpcyBpbiB0aGUgaGFiaXQgb2YgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYW5hbHl0aWNzVmFsdWVzID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
+        <text encoding="base64">ICAgICAgICBkZGFuYWx5dGljc0V2ZW50cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHNpdAo=</text>
+        <text encoding="base64">CiAgICAgICAgJGFuYWx5dGljc0V2ZW50c1tdID0gYXJyYXkoCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnRGVzdGluYXRpb24gbnVtYmVyIG9wdGVkIG91dCBzbyBjYW5jZWxsaW5nIG1lc3NhZ2UnLAogICAgICAgICAgICAndGltZVN0YW1wSW5NaWxsaXNlY29uZHMnID0+IE1vQW5hbHl0aWNzOjpnZXRNaWxsaXNlY29uZFRpbWVzdGFtcCgpLAogICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/- `/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>REJECTED_</last-search>
+      <last-search>- `</last-search>
       <last-offset />
-      <last-pattern>REJECTED_</last-pattern>
+      <last-pattern>- `</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>- `</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -246,6 +264,7 @@
         <entry>analytisEvents</entry>
         <entry>$analyticsEvents</entry>
         <entry>REJECTED_</entry>
+        <entry>- `</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -254,6 +273,7 @@
         <entry>s</entry>
         <entry>x</entry>
         <entry>reg</entry>
+        <entry>s/- `/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
